@@ -79,9 +79,9 @@ namespace TestPayPalIntegration
             var gateway = new BraintreeGateway
             {
                 Environment = Braintree.Environment.SANDBOX,
-                MerchantId = "yhtkwj4r48jzkkjj",
-                PublicKey = "986ss9kysc73c4rw",
-                PrivateKey = "29052237552a1bae8d5557a3cff333de"
+                MerchantId = "dfdfcv",
+                PublicKey = "erdfv443",
+                PrivateKey = "weqw4234"
             };
 
             return gateway;
